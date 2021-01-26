@@ -1,7 +1,7 @@
 # Word-Pathing
-Algoritmos e Estruturas de Dados - Projeto
+Algorithms and Data Structures - Project
 
-Utiliza uma rede de grafos para achar caminhos entre 2 palavras. Exemplo:
+Uses a graph network to find paths between 2 words. Example:
 
     carro -> pista
 
