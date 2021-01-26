@@ -1,5 +1,5 @@
 # Word-Pathing
-Algoritmos e Estruras de Dados - Projeto
+Algoritmos e Estruturas de Dados - Projeto
 
 Utiliza uma rede de grafos para achar caminhos entre 2 palavras. Exemplo:
 
